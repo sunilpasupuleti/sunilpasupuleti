@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunil_webwizard" target="blank"><img src="https://img.shields.io/twitter/follow/sunil_webwizard?logo=twitter&style=for-the-badge" alt="sunil_webwizard" /></a> </p>
 
-- 🔭 I’m currently working on [RESUME BUILDER](resume-builder.webwizard.in)
+- 🔭 I’m currently working on [RESUME BUILDER](https://resume-builder.webwizard.in)
 
 - 🌱 I’m currently learning **MERN stack.**
 
@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Freelancing projects.**
 
-- 👨‍💻 All of my projects are available at [webwizard.in](webwizard.in)
+- 👨‍💻 All of my projects are available at [webwizard.in](https://webwizard.in)
 
-- 📑 Resume at [resume.webwizard.in](resume.webwizard.in)
+- 📑 Resume at [resume.webwizard.in](https://resume.webwizard.in)
 
 - 💼 Working as a **Freelancer and Intern.**
 
 - 📫 How to reach me **sunilpasupuleti@outlook.com**
 
-- 📄 Know about my experiences [webwizard.in#experiences](webwizard.in#experiences)
+- 📄 Know about my experiences [webwizard.in#experiences](https://webwizard.in#experiences)
 
 - ⚡ Fun fact **My Life be like 💻 🔁 ☕️**
 
